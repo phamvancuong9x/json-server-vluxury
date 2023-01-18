@@ -5,16 +5,6 @@
       "password": "admin",
       "id": 1,
       "cart": []
-    },
-    {
-      "name": "admin1234567",
-      "password": "12345",
-      "id": 2
-    },
-    {
-      "name": "admin1234456789",
-      "password": "12345",
-      "id": 3
     }
   ],
   "categoryProduct": [
