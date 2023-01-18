@@ -6,7 +6,6 @@
       "use": "@vercel/node",
       "config": {
         "includeFiles": ["db.json"],
-        "public": "true",
         "readOnly": false
       }
     }
