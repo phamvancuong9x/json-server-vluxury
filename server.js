@@ -1,10 +1,6 @@
 const jsonServer = require("json-server");
-require("dotenv").config();
-
 const server = jsonServer.create();
-const dbFilePath = process.env.DB_FILE_PATH;
-const router = jsonServer.router(dbFilePath);
-
+const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);
