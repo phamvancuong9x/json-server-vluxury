@@ -1,278 +1,295 @@
 {
   "Account": [
     {
+      "name": "admin",
+      "password": "admin",
       "id": 1,
-      "name": "Phamvancuong",
-      "password": "123456",
-      "cart": []
-    },
-    {
-      "id": 2,
-      "name": "Phamvancuong",
-      "password": "1234567",
-      "cart": []
-    },
-    {
-      "name": "anhcuonggt",
-      "password": "123456",
-      "id": 3,
-      "cart": []
-    },
-    {
-      "name": "cuongbg",
-      "password": "123456",
-      "id": 4,
-      "cart": []
-    },
-    {
-      "name": "123456",
-      "password": "123456",
-      "id": 5,
-      "cart": []
-    },
-    {
-      "name": "anhcuonga51993",
-      "password": "cuonga51993",
-      "id": 6,
-      "cart": []
-    },
-    {
-      "name": "phamvancuong",
-      "password": "123456",
-      "id": 7,
-      "cart": []
-    },
-    {
-      "name": "test1234",
-      "password": "test1234",
-      "id": 9,
-      "cart": []
-    },
-    {
-      "name": "Phamvancuong",
-      "password": "123456789",
-      "id": 10,
       "cart": []
     }
   ],
   "categoryProduct": [
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c1",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_LH69_1-1.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH69_2-1.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH69_3-1.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH69_4-1.jpg"
+      ],
+
       "title": "ÁO VEST GHI KẺ LH69",
       "name_product": "ÁO VEST GHI KẺ LH69",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c2",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH67_1-2.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH67_2-2.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH67_3-2.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH67_4-2.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_LH67_1-2.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH67_2-2.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH67_3-2.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH67_4-2.jpg"
+      ],
+
       "title": "ÁO VEST  GHI KẺ LH67-A",
       "name_product": "ÁO VEST  GHI KẺ LH67-A",
       "price_product": "2,900,000₫",
       "priceNumber": "2900000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "290",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c3",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_263_1-3.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_263_2-3.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_263_3-3.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_263_4-3.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_263_1-3.jpg",
+        "../assets/image/image_product-detail/vest/Vest_263_2-3.jpg",
+        "../assets/image/image_product-detail/vest/Vest_263_3-3.jpg",
+        "../assets/image/image_product-detail/vest/Vest_263_4-3.jpg"
+      ],
+
       "title": "ÁO VEST KẺ XANH - 263",
       "name_product": "ÁO VEST KẺ XANH - 263",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c4",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_BE_AV_256_1-4.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_BE_AV_256_2-4.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_BE_AV_256_3-4.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_BE_AV_256_4-4.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_BE_AV_256_1-4.jpg",
+        "../assets/image/image_product-detail/vest/Vest_BE_AV_256_2-4.jpg",
+        "../assets/image/image_product-detail/vest/Vest_BE_AV_256_3-4.jpg",
+        "../assets/image/image_product-detail/vest/Vest_BE_AV_256_4-4.jpg"
+      ],
+
       "title": "ÁO VEST  BE AV256",
       "name_product": "ÁO VEST  BE AV256",
       "price_product": "2,900,000₫",
       "priceNumber": "2900000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "290",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c5",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_Xanh_LH61_1-5.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_Xanh_LH61_2-5.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_Xanh_LH61_3-5.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_Xanh_LH61_4-5.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_Xanh_LH61_1-5.jpg",
+        "../assets/image/image_product-detail/vest/Vest_Xanh_LH61_2-5.jpg",
+        "../assets/image/image_product-detail/vest/Vest_Xanh_LH61_3-5.jpg",
+        "../assets/image/image_product-detail/vest/Vest_Xanh_LH61_4-5.jpg"
+      ],
+
       "title": "ÁO VEST  XANH RÊU LH61",
       "name_product": "ÁO VEST  XANH RÊU LH61",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c6",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_LH64_1-6.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_LH64_2-6.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_LH64_3-6.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_LH64_4-6.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_den_LH64_1-6.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_LH64_2-6.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_LH64_3-6.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_LH64_4-6.jpg"
+      ],
+
       "title": "ÁO VEST XANH KẺ ĐEN LH64",
       "name_product": "ÁO VEST XANH KẺ ĐEN LH64",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c7",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_xanh_AVLH50_1-7.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_xanh_AVLH50_2-7.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_xanh_AVLH50_3-7.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_xanh_AVLH50_4-7.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_xanh_AVLH50_1-7.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_AVLH50_2-7.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_AVLH50_3-7.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_AVLH50_4-7.jpg"
+      ],
+
       "title": "ÁO VEST XANH KẺ AVLH50",
       "name_product": "ÁO VEST XANH KẺ AVLH50",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c8",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_trang_2HK_1-8.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_trang_2HK_2-8.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_trang_2HK_3-8.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_trang_2HK_4-8.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_trang_2HK_1-8.jpg",
+        "../assets/image/image_product-detail/vest/Vest_trang_2HK_2-8.jpg",
+        "../assets/image/image_product-detail/vest/Vest_trang_2HK_3-8.jpg",
+        "../assets/image/image_product-detail/vest/Vest_trang_2HK_4-8.jpg"
+      ],
+
       "title": "ÁO VEST TRẮNG 2HK",
       "name_product": "ÁO VEST TRẮNG 2HK",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c9",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_xanh_ke_hong_LH59_1-9.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_xanh_ke_hong_LH59_2-9.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_xanh_ke_hong_LH59_3-9.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_xanh_ke_hong_LH59_4-9.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_xanh_ke_hong_LH59_1-9.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_ke_hong_LH59_2-9.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_ke_hong_LH59_3-9.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_ke_hong_LH59_4-9.jpg"
+      ],
+
       "title": "ÁO VEST XANH KẺ HỒNG LH59",
       "name_product": "ÁO VEST XANH KẺ HỒNG LH59",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c10",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_xan_LH73_1-10.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_xan_LH73_2-10.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_xan_LH73_3-10.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_xan_LH73_4-10.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_xan_LH73_1-10.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xan_LH73_2-10.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xan_LH73_3-10.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xan_LH73_4-10.jpg"
+      ],
+
       "title": "ÁO VEST XANH LH73",
       "name_product": "ÁO VEST XANH LH73",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c11",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_tim_than_229_1-11.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_tim_than_229_2-11.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_tim_than_229_3-11.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_tim_than_229_4-11.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_tim_than_229_1-11.jpg",
+        "../assets/image/image_product-detail/vest/Vest_tim_than_229_2-11.jpg",
+        "../assets/image/image_product-detail/vest/Vest_tim_than_229_3-11.jpg",
+        "../assets/image/image_product-detail/vest/Vest_tim_than_229_4-11.jpg"
+      ],
+
       "title": "ÁO VEST TÍM THAN 229",
       "name_product": "ÁO VEST TÍM THAN 229",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c12",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_trang_AVT20_1-12.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_trang_AVT20_2-12.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_trang_AVT20_3-12.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_trang_AVT20_4-12.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_trang_AVT20_1-12.jpg",
+        "../assets/image/image_product-detail/vest/Vest_trang_AVT20_2-12.jpg",
+        "../assets/image/image_product-detail/vest/Vest_trang_AVT20_3-12.jpg",
+        "../assets/image/image_product-detail/vest/Vest_trang_AVT20_4-12.jpg"
+      ],
+
       "title": "ÁO VEST TRẮNG AVT20",
       "name_product": "ÁO VEST TRẮNG AVT20",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c13",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_AD2K-254_1-13.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_AD2K-254_2-13.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_AD2K-254_3-13.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_AD2K-254_4-13.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_AD2K-254_1-13.jpg",
+        "../assets/image/image_product-detail/vest/Vest_AD2K-254_2-13.jpg",
+        "../assets/image/image_product-detail/vest/Vest_AD2K-254_3-13.jpg",
+        "../assets/image/image_product-detail/vest/Vest_AD2K-254_4-13.jpg"
+      ],
+
       "title": "ÁO VEST TÍM AD2K-254",
       "name_product": "ÁO VEST TÍM AD2K-254",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
@@ -280,1087 +297,1309 @@
 
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c14",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_xanh_LH58_1-14.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_xanh_LH58_2-14.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_xanh_LH58_3-14.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_xanh_LH58_4-14.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_xanh_LH58_1-14.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_LH58_2-14.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_LH58_3-14.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_LH58_4-14.jpg"
+      ],
+
       "title": "ÁO VEST XANH LH58",
       "name_product": "ÁO VEST XANH LH58",
       "price_product": "2,900,000₫",
       "priceNumber": "2900000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "290",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c15",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_xanh_AV246_1-15.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_xanh_AV246_2-15.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_xanh_AV246_3-15.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_xanh_AV246_4-15.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_xanh_AV246_1-15.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_AV246_2-15.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_AV246_3-15.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh_AV246_4-15.jpg"
+      ],
+
       "title": "ÁO VEST XANH AV246",
       "name_product": "ÁO VEST XANH AV246",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c16",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_AD_AV251_1-16.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_AD_AV251_2-16.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_AD_AV251_3-16.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_AD_AV251_4-16.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_AD_AV251_1-16.jpg",
+        "../assets/image/image_product-detail/vest/Vest_AD_AV251_2-16.jpg",
+        "../assets/image/image_product-detail/vest/Vest_AD_AV251_3-16.jpg",
+        "../assets/image/image_product-detail/vest/Vest_AD_AV251_4-16.jpg"
+      ],
+
       "title": "ÁO VEST AD AV251",
       "name_product": "ÁO VEST AD AV251",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c17",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH48_1-17.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH48_2-17.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH48_3-17.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH48_4-17.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_LH48_1-17.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH48_2-17.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH48_3-17.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH48_4-17.jpg"
+      ],
+
       "title": "ÁO VEST BE KẺ XƯỚC LH48",
       "name_product": "ÁO VEST BE KẺ XƯỚC LH48",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c18",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_ke_xoc_AV257_1-18.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_ke_xoc_AV257_2-18.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_ke_xoc_AV257_3-18.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_ke_xoc_AV257_4-18.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_den_ke_xoc_AV257_1-18.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_ke_xoc_AV257_2-18.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_ke_xoc_AV257_3-18.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_ke_xoc_AV257_4-18.jpg"
+      ],
+
       "title": "ÁO VEST ĐEN KẺ XỌC AV257",
       "name_product": "ÁO VEST ĐEN KẺ XỌC AV257",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c19",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_1-19.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_2-19.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_3-19.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_4-19.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_1-19.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_2-19.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_3-19.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_ke_vuong_AV252_4-19.jpg"
+      ],
+
       "title": "ÁO VEST ĐEN KẺ VUÔNG AV252",
       "name_product": "ÁO VEST ĐEN KẺ VUÔNG AV252",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c20",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_van_TXV209_1-20.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_van_TXV209_2-20.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_van_TXV209_3-20.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_van_TXV209_4-20.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_den_van_TXV209_1-20.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_van_TXV209_2-20.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_van_TXV209_3-20.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_van_TXV209_4-20.jpg"
+      ],
+
       "title": "ÁO VEST ĐEN VẰN TXV209",
       "name_product": "ÁO VEST ĐEN VẰN TXV209",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c21",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_xuoc_ke_264_1-21.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_xuoc_ke_264_2-21.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_xuoc_ke_264_3-21.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_xuoc_ke_264_4-21.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_den_xuoc_ke_264_1-21.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_xuoc_ke_264_2-21.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_xuoc_ke_264_3-21.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_xuoc_ke_264_4-21.jpg"
+      ],
+
       "title": "ÁO VEST ĐEN XƯỚC KẺ 264",
       "name_product": "ÁO VEST ĐEN XƯỚC KẺ 264",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c22",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_do_co_nhon_bong_261_1-22.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_do_co_nhon_bong_261_2-22.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_do_co_nhon_bong_261_3-22.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_do_co_nhon_bong_261_4-22.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_do_co_nhon_bong_261_1-22.jpg",
+        "../assets/image/image_product-detail/vest/Vest_do_co_nhon_bong_261_2-22.jpg",
+        "../assets/image/image_product-detail/vest/Vest_do_co_nhon_bong_261_3-22.jpg",
+        "../assets/image/image_product-detail/vest/Vest_do_co_nhon_bong_261_4-22.jpg"
+      ],
+
       "title": "ÁO VEST ĐỎ CỔ NHỌN BÓNG",
       "name_product": "ÁO VEST ĐỎ CỔ NHỌN BÓNG",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c23",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_do_tui_tron_AV250_1-23.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_do_tui_tron_AV250_2-23.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_do_tui_tron_AV250_3-23.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_do_tui_tron_AV250_4-23.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_do_tui_tron_AV250_1-23.jpg",
+        "../assets/image/image_product-detail/vest/Vest_do_tui_tron_AV250_2-23.jpg",
+        "../assets/image/image_product-detail/vest/Vest_do_tui_tron_AV250_3-23.jpg",
+        "../assets/image/image_product-detail/vest/Vest_do_tui_tron_AV250_4-23.jpg"
+      ],
+
       "title": "ÁO VEST ĐỎ TÚI TRÒN AV250",
       "name_product": "ÁO VEST ĐỎ TÚI TRÒN AV250",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c24",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_ghi_ke_xoc_LH72_1-24.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_ghi_ke_xoc_LH72_2-24.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_ghi_ke_xoc_LH72_3-24.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_ghi_ke_xoc_LH72_4-24.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_ghi_ke_xoc_LH72_1-24.jpg",
+        "../assets/image/image_product-detail/vest/Vest_ghi_ke_xoc_LH72_2-24.jpg",
+        "../assets/image/image_product-detail/vest/Vest_ghi_ke_xoc_LH72_3-24.jpg",
+        "../assets/image/image_product-detail/vest/Vest_ghi_ke_xoc_LH72_4-24.jpg"
+      ],
+
       "title": "ÁO VEST GHI KẺ XỌC LH72",
       "name_product": "ÁO VEST GHI KẺ XỌC LH72",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c25",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_LH67_1-2.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_LH67_2-2.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_LH67_3-2.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_LH67_4-2.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_LH67_1-2.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH67_2-2.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH67_3-2.jpg",
+        "../assets/image/image_product-detail/vest/Vest_LH67_4-2.jpg"
+      ],
+
       "title": "ÁO VEST  GHI KẺ LH67-B",
       "name_product": "ÁO VEST  GHI KẺ LH67-B",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c26",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_den_soc-286_1-25.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_den_soc-286_2-25.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_den_soc-286_3-25.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_den_soc-286_4-25.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_den_soc-286_1-25.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_soc-286_2-25.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_soc-286_3-25.jpg",
+        "../assets/image/image_product-detail/vest/Vest_den_soc-286_4-25.jpg"
+      ],
+
       "title": "ÁO VEST ĐEN SỌC 286",
       "name_product": "ÁO VEST ĐEN SỌC 286",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c27",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_TT_ke-245_1-26.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_TT_ke-245_2-26.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_TT_ke-245_3-26.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_TT_ke-245_4-26.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_TT_ke-245_1-26.jpg",
+        "../assets/image/image_product-detail/vest/Vest_TT_ke-245_2-26.jpg",
+        "../assets/image/image_product-detail/vest/Vest_TT_ke-245_3-26.jpg",
+        "../assets/image/image_product-detail/vest/Vest_TT_ke-245_4-26.jpg"
+      ],
+
       "title": "ÁO VEST XANH TT KẺ 245",
       "name_product": "ÁO VEST XANH TT KẺ 245",
       "price_product": "2,700,000₫",
       "priceNumber": "2700000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "270",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
       "initialPrice": "3,000,000₫"
     },
     {
       "typeProduct": "vest",
+      "article_date": "15/01/22",
       "id": "c28",
-      "image_product_1": "assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_1-28.jpg",
-      "image_product_2": "assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_2-28.jpg",
-      "image_product_3": "assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_3-28.jpg",
-      "image_product_4": "assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_4-28.jpg",
+      "imageProduct": [
+        "../assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_1-28.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_2-28.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_3-28.jpg",
+        "../assets/image/image_product-detail/vest/Vest_xanh-ke-vuong-LH63_4-28.jpg"
+      ],
+
       "title": "ÁO VEST XANH KẺ VUÔNG LH63",
       "name_product": "ÁO VEST XANH KẺ VUÔNG LH63",
       "price_product": "2,950,000₫",
       "priceNumber": "2950000",
-      "describe": "<p>Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi...</p> <p>Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.</p>",
-      "vender_value_image": "assets/image/image_product-detail/vest/thongso_vest1.jpg",
+      "priceFilter": "295",
+      "describe": "Áo vest nam may sẵn tôn dáng đủ size từ 50- 85kg trẻ trung, lịch sự chỉ từ 2.500.000đ Chất liệu vải nhập khẩu cao cấp không bai xù, nhăn co, màu sắc đa dạng, sắc nét. Áo vest có thể mặc trong các buổi tiệc, đi làm công sở,đi chơi... Lưu ý: Giá sản phẩm chỉ bao gồm áo vest chưa bao gồm quần âu.",
+      "vender_value_image": "../assets/image/image_product-detail/vest/thongso_vest1.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d1",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_hong_SMBB04_1-1.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_hong_SMBB04_2-1.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_hong_SMBB04_1-1.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_hong_SMBB04_2-1.jpg"
+      ],
+
       "title": "ÁO SƠ MI HỒNG SMBB04",
       "name_product": "ÁO SƠ MI HỒNG SMBB04",
-      "price_product": "900,000₫",
-      "priceNumber": "900000",
+      "price_product": "1,650,000₫",
+      "priceNumber": "1650000",
+      "priceFilter": "165",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d2",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_ke_be_do_SMC064_1-2.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_ke_be_do_SMC064_2-2.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_ke_be_do_SMC064_1-2.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_ke_be_do_SMC064_2-2.jpg"
+      ],
+
       "title": "ÁO SƠ MI KẺ ĐỎ SMC064",
       "name_product": "ÁO SƠ MI KẺ ĐỎ SMC064",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,500,000₫",
+      "priceNumber": "1500000",
+      "priceFilter": "150",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d3",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_ke_ghi_sang_SMC061_1-3.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_ke_ghi_sang_SMC061_2-3.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_ke_ghi_sang_SMC061_1-3.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_ke_ghi_sang_SMC061_2-3.jpg"
+      ],
+
       "title": "ÁO SƠ MI KẺ GHI SÁNG SMC061",
       "name_product": "ÁO SƠ MI KẺ GHI SÁNG SMC061",
-      "price_product": "750,000₫",
-      "priceNumber": "750000",
+      "price_product": "1,600,000₫",
+      "priceNumber": "1600000",
+      "priceFilter": "160",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d4",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_ke_reu_SMC078_1-4.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_ke_reu_SMC078_2-4.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_ke_reu_SMC078_1-4.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_ke_reu_SMC078_2-4.jpg"
+      ],
+
       "title": "ÁO SƠ MI KẺ RÊU SMC078",
       "name_product": "ÁO SƠ MI KẺ RÊU SMC078",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,500,000₫",
+      "priceNumber": "1500000",
+      "priceFilter": "150",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d5",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_ghi_ke_chim_TXKC02_1-5.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_ghi_ke_chim_TXKC02_2-5.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_ghi_ke_chim_TXKC02_1-5.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_ghi_ke_chim_TXKC02_2-5.jpg"
+      ],
+
       "title": "ÁO SƠ MI GHI KẺ CHIM TXKC02",
       "name_product": "ÁO SƠ MI GHI KẺ CHIM TXKC02",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,500,000₫",
+      "priceNumber": "1500000",
+      "priceFilter": "150",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d6",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_ghi_ke_SMC071_1-6.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_ghi_ke_SMC071_2-6.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_ghi_ke_SMC071_1-6.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_ghi_ke_SMC071_2-6.jpg"
+      ],
+
       "title": "ÁO SƠ MI GHI KẺ SMC071",
       "name_product": "ÁO SƠ MI GHI KẺ SMC071",
-      "price_product": "750,000₫",
-      "priceNumber": "750000",
+      "price_product": "1,500,000₫",
+      "priceNumber": "1500000",
+      "priceFilter": "150",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d7",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_ghi_ke_xoc_SMC080_1-7.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_ghi_ke_xoc_SMC080_2-7.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_ghi_ke_xoc_SMC080_1-7.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_ghi_ke_xoc_SMC080_2-7.jpg"
+      ],
+
       "title": "ÁO SƠ MI GHI KẺ XỌC SMC080",
       "name_product": "ÁO SƠ MI GHI KẺ XỌC SMC080",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,500,000₫",
+      "priceNumber": "1500000",
+      "priceFilter": "150",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d8",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_ke_caro_xanh_SMC076_1-8.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_ke_caro_xanh_SMC076_2-8.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_ke_caro_xanh_SMC076_1-8.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_ke_caro_xanh_SMC076_2-8.jpg"
+      ],
+
       "title": "ÁO SƠ MI KẺ CARO XANH SMC076",
       "name_product": "ÁO SƠ MI KẺ CARO XANH SMC076",
-      "price_product": "800,000₫",
-      "priceNumber": "800000",
+      "price_product": "1,600,000₫",
+      "priceNumber": "1600000",
+      "priceFilter": "160",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d9",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi__SMC050_1-9.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi__SMC050_2-9.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi__SMC050_1-9.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi__SMC050_2-9.jpg"
+      ],
+
       "title": "ÁO SƠ MI SMC050",
       "name_product": "ÁO SƠ MI SMC050",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,500,000₫",
+      "priceNumber": "1500000",
+      "priceFilter": "150",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d10",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_tim_pastel_SMBB06_1-10.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_tim_pastel_SMBB06_2-10.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_tim_pastel_SMBB06_1-10.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_tim_pastel_SMBB06_2-10.jpg"
+      ],
+
       "title": "ÁO SƠ MI TÍM PASTEL SMBB06",
       "name_product": "ÁO SƠ MI TÍM PASTEL SMBB06",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,500,000₫",
+      "priceNumber": "1500000",
+      "priceFilter": "150",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d11",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_trang_ke_chim_TXKC01_1-11.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_trang_ke_chim_TXKC01_2-11.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_trang_ke_chim_TXKC01_1-11.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_trang_ke_chim_TXKC01_2-11.jpg"
+      ],
+
       "title": "ÁO SƠ MI TRẮNG KẺ CHÌM TXKC01",
       "name_product": "ÁO SƠ MI TRẮNG KẺ CHÌM TXKC01",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,550,000₫",
+      "priceNumber": "1550000",
+      "priceFilter": "155",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d12",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_trang_SMBB01_1-12.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_trang_SMBB01_2-12.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_trang_SMBB01_1-12.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_trang_SMBB01_2-12.jpg"
+      ],
+
       "title": "ÁO SƠ MI TÍM PASTEL SMBB06",
       "name_product": "ÁO SƠ MI TÍM PASTEL SMBB06",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,550,000₫",
+      "priceNumber": "1550000",
+      "priceFilter": "155",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d13",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_xanh_ke_SMC067_1-13.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_xanh_ke_SMC067_2-13.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_ke_SMC067_1-13.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_ke_SMC067_2-13.jpg"
+      ],
+
       "title": "ÁO SƠ MI XANH KẺ SMC067",
       "name_product": "ÁO SƠ MI XANH KẺ SMC067",
-      "price_product": "720,000₫",
-      "priceNumber": "720000",
+      "price_product": "1,350,000₫",
+      "priceNumber": "1350000",
+      "priceFilter": "135",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
-      "initialPrice": "800,000₫"
+      "initialPrice": "1,500,000₫"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d14",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_xanh_ke_chim_TXKC03_1-14.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_xanh_ke_chim_TXKC03_2-14.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_ke_chim_TXKC03_1-14.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_ke_chim_TXKC03_2-14.jpg"
+      ],
+
       "title": "ÁO SƠ MI XANH KẺ CHÌM TXKC03",
       "name_product": "ÁO SƠ MI XANH KẺ CHÌM TXKC03",
-      "price_product": "810,000₫",
-      "priceNumber": "810000",
+      "price_product": "1,350,000₫",
+      "priceNumber": "1350000",
+      "priceFilter": "135",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
-      "initialPrice": "900,000₫"
+      "initialPrice": "1,500,000₫"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d15",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_xanh_SMBBC05_1-15.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_xanh_SMBBC05_2-15.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_SMBBC05_1-15.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_SMBBC05_2-15.jpg"
+      ],
+
       "title": "ÁO SƠ MI XANH SMBBC05",
       "name_product": "ÁO SƠ MI XANH SMBBC05",
-      "price_product": "720,000₫",
-      "priceNumber": "720000",
+      "price_product": "1,280,000₫",
+      "priceNumber": "1280000",
+      "priceFilter": "128",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "true",
       "discount_sale": "-20%",
-      "initialPrice": "900,000₫"
+      "initialPrice": "1,600,000₫"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d16",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_xanh_tim_ke_SMC082_1-16.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_xanh_tim_ke_SMC082_2-16.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_tim_ke_SMC082_1-16.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_tim_ke_SMC082_2-16.jpg"
+      ],
+
       "title": "ÁO SƠ MI XANH TIM SMC082",
       "name_product": "ÁO SƠ MI XANH TIM SMC082",
-      "price_product": "810,000₫",
-      "priceNumber": "810000",
+      "price_product": "1,350,000₫",
+      "priceNumber": "1350000",
+      "priceFilter": "135",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
-      "initialPrice": "900,000₫"
+      "initialPrice": "1,500,000₫"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d17",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_xanh_tim_than_ke_C069_1-17.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_xanh_tim_than_ke_C069_1-17.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_tim_than_ke_C069_1-17.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_xanh_tim_than_ke_C069_1-17.jpg"
+      ],
+
       "title": "ÁO SƠ MI TÍM THAN SMC082",
       "name_product": "ÁO SƠ MI TÍM THAN SMC082",
-      "price_product": "640,000₫",
-      "priceNumber": "640000",
+      "price_product": "1,280,000₫",
+      "priceNumber": "1280000",
+      "priceFilter": "128",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "true",
       "discount_sale": "-20%",
-      "initialPrice": "800,000₫"
+      "initialPrice": "1,600,000₫"
     },
     {
       "typeProduct": "somi",
+      "article_date": "15/01/22",
       "id": "d18",
-      "image_product_1": "assets/image/image_product-detail/so_mi/SoMi_trang_SMBB02_1-18.jpg",
-      "image_product_2": "assets/image/image_product-detail/so_mi/SoMi_trang_SMBB02_2-18.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/so_mi/SoMi_trang_SMBB02_1-18.jpg",
+        "../assets/image/image_product-detail/so_mi/SoMi_trang_SMBB02_2-18.jpg"
+      ],
+
       "title": "ÁO SƠ MI TRẮNG SMBB02",
       "name_product": "ÁO SƠ MI TRẮNG SMBB02",
-      "price_product": "720,000₫",
-      "priceNumber": "720000",
+      "price_product": "1,350,000₫",
+      "priceNumber": "1350000",
+      "priceFilter": "135",
       "describe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_somi.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_somi.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
-      "initialPrice": "800,000₫"
+      "initialPrice": "1,500,000₫"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e1",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_vang_4QAVB006VAG_1-1.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_vang_4QAVB006VAG_2-1.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_vang_4QAVB006VAG_1-1.jpg",
+        "../assets/image/image_product-detail/quan/quanau_vang_4QAVB006VAG_2-1.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM VÀNG 4QAVB006VAG",
       "name_product": "QUẦN ÂU NAM VÀNG 4QAVB006VAG",
-      "price_product": "800,000₫",
-      "priceNumber": "800000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e2",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_do_ke_4QAVC009DOD_1-2.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_do_ke_4QAVC009DOD_2-2.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_do_ke_4QAVC009DOD_1-2.jpg",
+        "../assets/image/image_product-detail/quan/quanau_do_ke_4QAVC009DOD_2-2.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM ĐỎ KẺ 4QAVC009DOD",
       "name_product": "QUẦN ÂU NAM ĐỎ KẺ 4QAVC009DOD",
-      "price_product": "700,000₫",
-      "priceNumber": "700000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e3",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_xam_ke_4QAVC010GHS_1-3.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_xam_ke_4QAVC010GHS_2-3.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_xam_ke_4QAVC010GHS_1-3.jpg",
+        "../assets/image/image_product-detail/quan/quanau_xam_ke_4QAVC010GHS_2-3.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM XAM KẺ 4QAVC010GHS",
       "name_product": "QUẦN ÂU NAM XAM KẺ 4QAVC010GHS",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,050,000₫",
+      "priceNumber": "1050000",
+      "priceFilter": "105",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e4",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_xanh_ke_4QAVC011XAH_1-4.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_xanh_ke_4QAVC011XAH_2-4.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_xanh_ke_4QAVC011XAH_1-4.jpg",
+        "../assets/image/image_product-detail/quan/quanau_xanh_ke_4QAVC011XAH_2-4.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM XANH 4QAVC011XAH",
       "name_product": "QUẦN ÂU NAM XANH 4QAVC011XAH",
-      "price_product": "800,000₫",
-      "priceNumber": "800000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e5",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_xanh_ke_4QAVC011TTT_1-5.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_xanh_ke_4QAVC011TTT_2-5.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_xanh_ke_4QAVC011TTT_1-5.jpg",
+        "../assets/image/image_product-detail/quan/quanau_xanh_ke_4QAVC011TTT_2-5.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM XANH 4QAVC011TTT",
       "name_product": "QUẦN ÂU NAM XANH 4QAVC011TTT",
-      "price_product": "800,000₫",
-      "priceNumber": "800000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e6",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_tim_than_sang_1-6.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_tim_than_sang_2-6.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_tim_than_sang_1-6.jpg",
+        "../assets/image/image_product-detail/quan/quanau_tim_than_sang_2-6.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM TIM THAN SÁNG",
       "name_product": "QUẦN ÂU NAM TIM THAN SÁNG",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,050,000₫",
+      "priceNumber": "1050000",
+      "priceFilter": "105",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e7",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_den_1-7.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_den_2-7.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_den_1-7.jpg",
+        "../assets/image/image_product-detail/quan/quanau_den_2-7.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM ĐEN",
       "name_product": "QUẦN ÂU NAM ĐEN",
-      "price_product": "750,000₫",
-      "priceNumber": "750000",
+      "price_product": "1,050,000₫",
+      "priceNumber": "1050000",
+      "priceFilter": "105",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e8",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_xanh_4QAVB006XAH_1-8.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_xanh_4QAVB006XAH_2-8.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_xanh_4QAVB006XAH_1-8.jpg",
+        "../assets/image/image_product-detail/quan/quanau_xanh_4QAVB006XAH_2-8.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM XANH 4QAVB006XAH",
       "name_product": "QUẦN ÂU NAM XANH 4QAVB006XAH",
-      "price_product": "800,000₫",
-      "priceNumber": "800000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e9",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_xanh_4QAVH004XAH_1-9.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_xanh_4QAVH004XAH_2-9.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_xanh_4QAVH004XAH_1-9.jpg",
+        "../assets/image/image_product-detail/quan/quanau_xanh_4QAVH004XAH_2-9.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM XANH 4QAVH004XAH",
       "name_product": "QUẦN ÂU NAM XANH 4QAVH004XAH",
-      "price_product": "850,000₫",
-      "priceNumber": "850000",
+      "price_product": "1,050,000₫",
+      "priceNumber": "1050000",
+      "priceFilter": "105",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e10",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_den_4QAVC008DEN_1-10.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_den_4QAVC008DEN_2-10.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_den_4QAVC008DEN_1-10.jpg",
+        "../assets/image/image_product-detail/quan/quanau_den_4QAVC008DEN_2-10.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM ĐEN 4QAVC008DEN",
       "name_product": "QUẦN ÂU NAM ĐEN 4QAVC008DEN",
-      "price_product": "800,000₫",
-      "priceNumber": "800000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e11",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_4QAVB006CME_1-11.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_4QAVB006CME_2-11.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_4QAVB006CME_1-11.jpg",
+        "../assets/image/image_product-detail/quan/quanau_4QAVB006CME_2-11.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM 4QAVB006CME",
       "name_product": "QUẦN ÂU NAM 4QAVB006CME",
-      "price_product": "750,000₫",
-      "priceNumber": "750000",
+      "price_product": "1050,000₫",
+      "priceNumber": "1050000",
+      "priceFilter": "105",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e12",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_xam_4QAVB006XLM_1-12.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_xam_4QAVB006XLM_2-12.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_xam_4QAVB006XLM_1-12.jpg",
+        "../assets/image/image_product-detail/quan/quanau_xam_4QAVB006XLM_2-12.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM XÁM 4QAVB006XLM",
       "name_product": "QUẦN ÂU NAM XÁM 4QAVB006XLM",
-      "price_product": "800,000₫",
-      "priceNumber": "800000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e13",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_4QAVB005XNH_1-13.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_4QAVB005XNH_2-13.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_4QAVB005XNH_1-13.jpg",
+        "../assets/image/image_product-detail/quan/quanau_4QAVB005XNH_2-13.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM 4QAVB005XNH",
       "name_product": "QUẦN ÂU NAM 4QAVB005XNH",
-      "price_product": "810,000₫",
-      "priceNumber": "810000",
+      "price_product": "1,080,000₫",
+      "priceNumber": "1080000",
+      "priceFilter": "108",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
-      "initialPrice": "900,000₫"
+      "initialPrice": "1,200,000₫"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e14",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_4QAVB008GHX_1-14.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_4QAVB008GHX_2-14.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_4QAVB008GHX_1-14.jpg",
+        "../assets/image/image_product-detail/quan/quanau_4QAVB008GHX_2-14.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM 4QAVB008GHX",
       "name_product": "QUẦN ÂU NAM 4QAVB008GHX",
-      "price_product": "640,000₫",
-      "priceNumber": "640000",
+      "price_product": "1,080,000₫",
+      "priceNumber": "1080000",
+      "priceFilter": "108",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "true",
-      "discount_sale": "-20%",
-      "initialPrice": "800,000₫"
+      "discount_sale": "-10%",
+      "initialPrice": "1,200,000₫"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e15",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_4QAVB005BEV_1-15.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_4QAVB005BEV_2-15.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_4QAVB005BEV_1-15.jpg",
+        "../assets/image/image_product-detail/quan/quanau_4QAVB005BEV_2-15.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM 4QAVB005BEV",
       "name_product": "QUẦN ÂU NAM 4QAVB005BEV",
-      "price_product": "810,000₫",
-      "priceNumber": "810000",
+      "price_product": "1,040,000₫",
+      "priceNumber": "1040000",
+      "priceFilter": "104",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
-      "isSale": "true",
-      "discount_sale": "-10%",
-      "initialPrice": "900,000₫"
-    },
-    {
-      "typeProduct": "quanau",
-      "id": "e16",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_4QAVB005BES_1-16.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_4QAVB005BES_2-16.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
-      "title": "QUẦN ÂU NAM 4QAVB005BES",
-      "name_product": "QUẦN ÂU NAM 4QAVB005BES",
-      "price_product": "720,000₫",
-      "priceNumber": "720000",
-      "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "true",
       "discount_sale": "-20%",
-      "initialPrice": "900,000₫"
+      "initialPrice": "1,300,000₫"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
+      "id": "e16",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_4QAVB005BES_1-16.jpg",
+        "../assets/image/image_product-detail/quan/quanau_4QAVB005BES_2-16.jpg"
+      ],
+
+      "title": "QUẦN ÂU NAM 4QAVB005BES",
+      "name_product": "QUẦN ÂU NAM 4QAVB005BES",
+      "price_product": "1,040,000₫",
+      "priceNumber": "1040000",
+      "priceFilter": "104",
+      "descripbe": "",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "isSale": "true",
+      "discount_sale": "-20%",
+      "initialPrice": "1,300,000₫"
+    },
+    {
+      "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e17",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_4QAVB006XNH_1-17.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_4QAVB006XNH_2-17.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_4QAVB006XNH_1-17.jpg",
+        "../assets/image/image_product-detail/quan/quanau_4QAVB006XNH_2-17.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM 4QAVB006XNH",
       "name_product": "QUẦN ÂU NAM 4QAVB006XNH",
-      "price_product": "810,000₫",
-      "priceNumber": "810000",
+      "price_product": "1,080,000₫",
+      "priceNumber": "1080000",
+      "priceFilter": "108",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
-      "initialPrice": "900,000₫"
+      "initialPrice": "1,200,000₫"
     },
     {
       "typeProduct": "quanau",
+      "article_date": "15/01/22",
       "id": "e18",
-      "image_product_1": "assets/image/image_product-detail/quan/quanau_4QAVC006XAH_1-18.jpg",
-      "image_product_2": "assets/image/image_product-detail/quan/quanau_4QAVC006XAH_2-18.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/quan/quanau_4QAVC006XAH_1-18.jpg",
+        "../assets/image/image_product-detail/quan/quanau_4QAVC006XAH_2-18.jpg"
+      ],
+
       "title": "QUẦN ÂU NAM 4QAVC006XAH",
       "name_product": "QUẦN ÂU NAM 4QAVC006XAH",
-      "price_product": "710,000₫",
-      "priceNumber": "710000",
+      "price_product": "1,080,000₫",
+      "priceNumber": "1080000",
+      "priceFilter": "108",
       "descripbe": "",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_quanau.jpg",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_quanau.jpg",
       "isSale": "true",
       "discount_sale": "-10%",
-      "initialPrice": "800,000₫"
+      "initialPrice": "1,200,000₫"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g1",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_li_G6262D_1-1.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_li_G6262D_2-1.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_den_li_G6262D_1-1.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_den_li_G6262D_2-1.jpg"
+      ],
+
       "title": "GIÀY DA NAM ĐEN LÌ G6262D",
       "name_product": "GIÀY DA NAM ĐEN LÌ G6262D",
       "describe": "Giày da nam đen lì G6262D tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng .Giày da nam đen lì G6262D có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,570,000₫",
       "priceNumber": "1570000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "157",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g2",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_san_40712BM_1-2.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_san_40712BM_2-2.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_san_40712BM_1-2.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_san_40712BM_2-2.jpg"
+      ],
+
       "title": "GIÀY LƯỜI NAM DA SẦN 40712BM",
       "name_product": "GIÀY LƯỜI NAM DA SẦN 40712BM",
       "describe": "Giày lười nam công sở da sần 407 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày lười nam công sở da sần 407 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,470,000₫",
       "priceNumber": "1470000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "147",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g3",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_bong_1805-62_1-3.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_bong_1805-62_2-3.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_den_bong_1805-62_1-3.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_den_bong_1805-62_2-3.jpg"
+      ],
+
       "title": "GIÀY DA NAM ĐEN BÓNG 1805-62",
       "name_product": "GIÀY DA NAM ĐEN BÓNG 1805-62",
       "describe": "Giày da nam đen bóng 1805 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam đen bóng 1805 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,500,000₫",
       "priceNumber": "1500000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "150",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g4",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_chuong_M5L22D_1-4.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_chuong_M5L22D_2-4.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_den_chuong_M5L22D_1-4.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_den_chuong_M5L22D_2-4.jpg"
+      ],
+
       "title": "GIÀY DA NAM LOAFER ĐEN CHUÔNG M5L22D",
       "name_product": "GIÀY DA NAM LOAFER ĐEN CHUÔNG M5L22D",
       "describe": "Giày nam loafer đen chuông G212 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày nam loafer đen chuông G212 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,770,000₫",
       "priceNumber": "1770000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "177",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g5",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_han_quoc_40624_1-5.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_han_quoc_40624_2-5.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_den_han_quoc_40624_1-5.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_den_han_quoc_40624_2-5.jpg"
+      ],
+
       "title": "GIÀY DA NAM HÀN QUỐC 40624 ĐEN",
       "name_product": "GIÀY DA NAM HÀN QUỐC 40624 ĐEN",
       "describe": "Giày da lười nam Hàn Quốc 40624 ĐEN tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da lười nam Hàn Quốc 40624 ĐEN có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,570,000₫",
       "priceNumber": "1570000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "157",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g6",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_cong_so_M5L62D_1-6.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_cong_so_M5L62D_2-6.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_den_cong_so_M5L62D_1-6.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_den_cong_so_M5L62D_2-6.jpg"
+      ],
+
       "title": "GIÀY DA NAM ĐEN CÔNG SỞ M5L62D",
       "name_product": "GIÀY DA NAM ĐEN CÔNG SỞ M5L62D",
       "describe": "Giày nam đen công sở Hàn Quốc M5L62D tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày nam đen công sở Hàn Quốc M5L62D có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,670,000₫",
       "priceNumber": "1670000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "167",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g7",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_man_G84604_1-7.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_man_G84604_2-7.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_man_G84604_1-7.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_man_G84604_2-7.jpg"
+      ],
+
       "title": "GIÀY DA LƯỜI NAM G84604 MẬN",
       "name_product": "GIÀY DA LƯỜI NAM G84604 MẬN",
       "describe": "Giày da lười nam G846 Mận tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da lười nam G846 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,470,000₫",
       "priceNumber": "1470000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "147",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g8",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_nau_G190504_1-8.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_nau_G190504_2-8.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_nau_G190504_1-8.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_nau_G190504_2-8.jpg"
+      ],
+
       "title": "GIÀY DA NAM LOAFER NÂU G190504",
       "name_product": "GIÀY DA NAM LOAFER NÂU G190504",
       "describe": "Giày da nam loafer nâu G1905 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam loafer nâu G1905 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,650,000₫",
       "priceNumber": "1650000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "165",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g9",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_nhung_den_lo_G40623_1-9.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_nhung_den_lo_G40623_2-9.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_nhung_den_lo_G40623_1-9.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_nhung_den_lo_G40623_2-9.jpg"
+      ],
+
       "title": "GIÀY NAM NHUNG ĐEN NƠ G40623",
       "name_product": "GIÀY NAM NHUNG ĐEN NƠ G40623",
       "describe": "Giày nam Nhung Đen Nơ G40623 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày nam Nhung Đen Nơ G40623 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,470,000₫",
       "priceNumber": "1470000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "147",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g10",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_man_40712_1-10.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_man_40712_2-10.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_man_40712_1-10.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_man_40712_2-10.jpg"
+      ],
+
       "title": "GIÀY DA NAM CÔNG SỞ 40712 MẬN",
       "name_product": "GIÀY DA NAM CÔNG SỞ 40712 MẬN",
       "describe": "Giày lười nam công sở 407 mận tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày lười nam công sở 407 mận có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,500,000₫",
       "priceNumber": "1500000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "150",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g11",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_den_G190504_1-11.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_den_G190504_2-11.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_den_G190504_1-11.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_den_G190504_2-11.jpg"
+      ],
+
       "title": "GIÀY DA NAM ĐEN G190504",
       "name_product": "GIÀY DA NAM ĐEN G190504",
       "describe": "Giày da nam đen G190504 tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam đen G190504 có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,700,000₫",
       "priceNumber": "1700000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "170",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "giay",
+      "article_date": "15/01/22",
       "id": "g12",
-      "image_product_1": "assets/image/image_product-detail/giay/giaydanam_man_li_G6262N_1-12.jpg",
-      "image_product_2": "assets/image/image_product-detail/giay/giaydanam_man_li_G6262N_2-12.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/giay/giaydanam_man_li_G6262N_1-12.jpg",
+        "../assets/image/image_product-detail/giay/giaydanam_man_li_G6262N_2-12.jpg"
+      ],
+
       "title": "GIÀY DA NAM MẬN LÌ G6262N",
       "name_product": "GIÀY DA NAM MẬN LÌ G6262N",
       "describe": "Giày da nam mận lì G6262N tinh tế trẻ trung, dễ dàng kết hợp nhiều loại trang phục được với quý ông mọi độ tuổi ưa chuộng . Giày da nam mận lì G6262N có đường may tỉ mỉ chi tiết, đế giày chắc chắn chống trơn trượt.",
       "price_product": "1,570,000₫",
       "priceNumber": "1570000",
-      "vender_value_image": "assets/image/image_product-detail/vendor_value_giay.jpg",
+      "priceFilter": "157",
+      "vender_value_image": "../assets/image/image_product-detail/vendor_value_giay.jpg",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h1",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_5DLLB006DEN_1-1.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_5DLLB006DEN_2-1.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_5DLLB006DEN_1-1.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_5DLLB006DEN_2-1.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 5DLLB006DEN",
       "name_product": "THẮT LƯNG NAM 5DLLB006DEN",
       "describe": "",
-      "price_product": "570,000₫",
-      "priceNumber": "570000",
+      "price_product": "1,150,000₫",
+      "priceNumber": "1150000",
+      "priceFilter": "115",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1368,16 +1607,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h2",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_5DLLB005DEN_1-2.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_5DLLB005DEN_2-2.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_5DLLB005DEN_1-2.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_5DLLB005DEN_2-2.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 5DLLB005DEN",
       "name_product": "THẮT LƯNG NAM 5DLLB005DEN",
       "describe": "",
-      "price_product": "500,000₫",
-      "priceNumber": "500000",
+      "price_product": "1,150,000₫",
+      "priceNumber": "1150000",
+      "priceFilter": "115",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1385,16 +1627,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h3",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_5DLCB006DEN_1-3.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_5DLCB006DEN_2-3.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_5DLCB006DEN_1-3.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_5DLCB006DEN_2-3.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 5DLCB006DEN",
       "name_product": "THẮT LƯNG NAM 5DLCB006DEN",
       "describe": "",
-      "price_product": "570,000₫",
-      "priceNumber": "570000",
+      "price_product": "1,150,000₫",
+      "priceNumber": "1150000",
+      "priceFilter": "115",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1402,16 +1647,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h4",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_5DLCB005DEN_1-4.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_5DLCB005DEN_2-4.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_5DLCB005DEN_1-4.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_5DLCB005DEN_2-4.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 5DLCB005DEN",
       "name_product": "THẮT LƯNG NAM 5DLCB005DEN",
       "describe": "",
-      "price_product": "470,000₫",
-      "priceNumber": "470000",
+      "price_product": "1,150,000₫",
+      "priceNumber": "1150000",
+      "priceFilter": "115",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1419,16 +1667,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h5",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_5DLCB004DEN_1-5.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_5DLCB004DEN_2-5.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_5DLCB004DEN_1-5.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_5DLCB004DEN_2-5.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 5DLCB004DEN",
       "name_product": "THẮT LƯNG NAM 5DLCB004DEN",
       "describe": "",
-      "price_product": "570,000₫",
-      "priceNumber": "570000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1436,16 +1687,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h6",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_4DLLB016DEN_1-6.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_4DLLB016DEN_2-6.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB016DEN_1-6.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB016DEN_2-6.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 4DLLB016DEN",
       "name_product": "THẮT LƯNG NAM 4DLLB016DEN",
       "describe": "",
-      "price_product": "370,000₫",
-      "priceNumber": "370000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1453,16 +1707,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h7",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_4DLLB017DEN_1-7.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_4DLLB017DEN_2-7.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB017DEN_1-7.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB017DEN_2-7.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 4DLLB017DEN",
       "name_product": "THẮT LƯNG NAM 4DLLB017DEN",
       "describe": "",
-      "price_product": "400,000₫",
-      "priceNumber": "400000",
+      "price_product": "1,050,000₫",
+      "priceNumber": "1050000",
+      "priceFilter": "105",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1470,16 +1727,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h8",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_4DLLB018DEN_1-8.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_4DLLB018DEN_2-8.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB018DEN_1-8.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB018DEN_2-8.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 4DLLB018DEN",
       "name_product": "THẮT LƯNG NAM 4DLLB018DEN",
       "describe": "",
-      "price_product": "570,000₫",
-      "priceNumber": "570000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1487,16 +1747,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h9",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_4DLLB019DEN_1-9.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_4DLLB019DEN_2-9.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB019DEN_1-9.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB019DEN_2-9.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 4DLLB019DEN",
       "name_product": "THẮT LƯNG NAM 4DLLB019DEN",
       "describe": "",
-      "price_product": "570,000₫",
-      "priceNumber": "570000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1504,16 +1767,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h10",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_4DLCB004DEN_1-10.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_4DLCB004DEN_2-10.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_4DLCB004DEN_1-10.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_4DLCB004DEN_2-10.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 4DLCB004DEN",
       "name_product": "THẮT LƯNG NAM 4DLCB004DEN",
       "describe": "",
-      "price_product": "470,000₫",
-      "priceNumber": "470000",
+      "price_product": "1,100,000₫",
+      "priceNumber": "1100000",
+      "priceFilter": "110",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1521,16 +1787,19 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h11",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_4DLLB011NAU_1-11.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_4DLLB011NAU_2-11.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB011NAU_1-11.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB011NAU_2-11.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 4DLLB011NAU",
       "name_product": "THẮT LƯNG NAM 4DLLB011NAU",
       "describe": "",
-      "price_product": "570,000₫",
-      "priceNumber": "570000",
+      "price_product": "1,050,000₫",
+      "priceNumber": "1050000",
+      "priceFilter": "105",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
@@ -1538,21 +1807,355 @@
     },
     {
       "typeProduct": "phukien",
+      "article_date": "15/01/22",
       "id": "h12",
-      "image_product_1": "assets/image/image_product-detail/phukien/thatlung_4DLLB012NAU_1-12.jpg",
-      "image_product_2": "assets/image/image_product-detail/phukien/thatlung_4DLLB012NAU_2-12.jpg",
-      "image_product_3": "",
-      "image_product_4": "",
+      "imageProduct": [
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB012NAU_1-12.jpg",
+        "../assets/image/image_product-detail/phukien/thatlung_4DLLB012NAU_2-12.jpg"
+      ],
+
       "title": "THẮT LƯNG NAM 4DLLB012NAU",
       "name_product": "THẮT LƯNG NAM 4DLLB012NAU",
       "describe": "",
-      "price_product": "450,000₫",
-      "priceNumber": "450000",
+      "price_product": "1,050,000₫",
+      "priceNumber": "1050000",
+      "priceFilter": "105",
       "vender_value_image": "null",
       "isSale": "false",
       "discount_sale": "null",
       "initialPrice": "null"
     }
   ],
-  "cart": []
+  "news": [
+    {
+      "id": "n1",
+      "name": "XU HƯỚNG THỜI TRANG CHO ÁO SƠ MI NAM 2022",
+      "article_date": "05/01/22",
+      "newDescriber": "Thắt cà vạt là một trong những kỹ năng cần thiết của chàng trai hiện đại. Cùng Milando tìm hiểu những kiểu thắt cavat phổ biến sau đây nh...",
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/news/tintucmoi6.jpg"
+    },
+    {
+      "id": "n2",
+      "name": "VEST NAM - 5 SỰ KẾT HỢP MÀU SẮC CẦN THIẾT CHO BỘ ĐỒ MÙA XUÂN",
+      "article_date": "13/09/21",
+      "newDescriber": "Khi bạn nghe mùa xuân kết hợp phù hợp với màu sắc, bạn có thể mong đợi để tìm thấy một số Bộ áo vest nam màu xanh, Bộ áo vest nam, Bộ áo ...",
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/news/tintucmoi5.jpg"
+    },
+    {
+      "id": "n3",
+      "name": "PHONG CÁC TỰ DO VÀ BỘ ĐỒ ÁO VEST NAM KHÔNG THẮT LƯNG",
+      "article_date": "19/11/21",
+      "newDescriber": "Với những bạn nam thì chiếc thắt lưng không phải là một phụ kiện thời trang quá xa lạ hay lạ lẫm gì nữa. Chiếc thắt lưng đã khẳng định đư...",
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/news/tintucmoi4.jpg"
+    },
+    {
+      "id": "n4",
+      "name": "3 BỘ ĐỒ MÀ CHÀNG TRAI NÊN CÓ TRONG TỦ QUẦN ÁO",
+      "article_date": "15/12/21",
+      "newDescriber": "Nền tủ quần áo phải hoạt động giống như danh sách mua sắm thực phẩm hàng tuần của bạn. Bạn mua cùng một mặt hàng chủ lực mỗi khi đến cửa ...",
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/news/tintucmoi3.jpg"
+    },
+    {
+      "id": "n5",
+      "name": "PHỐI ĐỒ CHUẨN PHONG CÁCH SUIT HÀN – Ý THEO PHIM VINCENZO",
+      "article_date": "15/12/21",
+      "newDescriber": "Hai đất nước Ý và Hàn Quốc luôn được biết đến là những quốc gia có phong cách Vest ấn tượng. Nam giới ở cả hai đất nước đều có xu hướng t...",
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/news2.jpg"
+    },
+    {
+      "id": "n6",
+      "name": "TIPS THẮT CÀ VẠT ĐÚNG CHUẨN QUÝ ÔNG LỊCH LÃM",
+      "article_date": "15/01/22",
+      "newDescriber": "Thắt cà vạt là một trong những kỹ năng cần thiết của chàng trai hiện đại. Cùng Milando tìm hiểu những kiểu thắt cavat phổ biến sau đây nh...",
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/news/tintucmoi1.jpg",
+      "new_detail": ""
+    }
+  ],
+  "home": [
+    {
+      "id": "1",
+      "homeType": "slider",
+      "article_date": "15/01/22",
+      "name": "Ảnh slider",
+      "image_slider_desktop": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/slideshow1_noText.png",
+
+      "image_slider_mobile": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/slideshow1_noText_mobile.jpg"
+    },
+    {
+      "id": "2",
+      "homeType": "slider",
+      "name": "Ảnh slider",
+      "article_date": "15/01/22",
+      "image_slider_desktop": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/slideshow_1.jpg",
+      "image_slider_mobile": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/slideshow_1_mobile_2.png"
+    },
+
+    {
+      "id": "3",
+      "homeType": "bannerSale",
+      "name": "Ảnh bannerSale",
+      "article_date": "15/01/22",
+      "image_slider_desktop": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/banner_photoshop2.jpg",
+      "image_slider_mobile": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/banner_photo_mobile4.jpg"
+    },
+    {
+      "id": "4",
+      "homeType": "collectionList",
+      "article_date": "15/01/22",
+      "name": "VEST",
+      "typeProduct": "vest",
+
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/vest%20(2).png"
+    },
+    {
+      "id": "5",
+      "homeType": "collectionList",
+      "article_date": "15/01/22",
+      "name": "SƠ MI",
+      "typeProduct": "somi",
+
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/so_mi.png"
+    },
+    {
+      "id": "6",
+      "homeType": "collectionList",
+      "article_date": "15/01/22",
+      "typeProduct": "quanau",
+
+      "name": "QUẦN TÂY",
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/quan_au.png"
+    },
+    {
+      "id": "7",
+      "homeType": "collectionList",
+      "article_date": "15/01/22",
+      "name": "GIÀY",
+      "typeProduct": "giay",
+
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/giay.png"
+    },
+    {
+      "id": "8",
+      "homeType": "collectionList",
+      "article_date": "15/01/22",
+      "name": "PHỤ KIỆN",
+      "typeProduct": "phukien",
+      "image": "https://phamvancuong9x.github.io/vluxuryfashion/assets/image/image_home/phu_kien.png"
+    }
+  ],
+  "category_moc_food": [
+    {
+      "typeProduct": "do_an_nhe",
+      "article_date": "15/01/22",
+      "id": "aa1",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product1.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product1-1.jpg"
+      ],
+
+      "title": "SPAGHETTI BOLOGNAISE",
+      "name_product": "SPAGHETTI BOLOGNAISE",
+      "price_product": "140,000₫",
+      "priceNumber": "140000",
+      "priceFilter": "140",
+      "describe_1": "Món mỳ Spaghetti không chỉ phổ biến trong các nhà hàng lớn mà ngay trong bữa cơm gia đình cũng trở nên vô cùng thân thuộc. Nguyên liệu để làm ra món mỳ trứ danh này là từ lúa mì và các loại bột khác theo quy trình nhạo thành bột rồi được tạo ra với vô số các hình dạng khác nhau.Có thể nói mỳ Spaghetti được xếp vào hạng những món ăn phong phú và đa dạng nhất với đủ các loại sợi như: dạng sợi dài Spaghetti, Capellini, dạng lá như Lasagna hoặc dạng xoắn Fusilli nhưng có lẽ phổ biến hơn cả vẫn là Spaghetti.",
+      "describe_2": "Ban đầu sợi mỳ Spaghetti dài rất đáng kể, nhưng dần dần nhiều sợi mỳ có độ dài ngắn hơn trở nên được ưa chuộng trong nửa sau thế kỉ 20 và ở thời điểm hiện tại thì spaghetti chủ yếu dài khoảng 25-30cm. Nhiều món ăn pasta khác đều có cơ sở dựa trên nó mà hình thành.,Vừa thơm ngon vừa bổ dưỡng, lại đẹp mắt và có vô vàn mùi vị để lựa chọn, vậy nên không có lý do gì để du khách không thưởng thức món mỳ Spaghetti nổi tiếng này khi đi du lịch Italia cùng MocFood "
+    },
+    {
+      "typeProduct": "doannhe",
+      "article_date": "15/01/22",
+      "id": "aa2",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product2.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product2-1.jpg"
+      ],
+
+      "title": "SALAD BÒ BÍP-TẾT",
+      "name_product": "SALAD BÒ BÍP-TẾT",
+      "price_product": "340,000₫",
+      "priceNumber": "340000",
+      "priceFilter": "340",
+      "describe_1": "Bột mỳ trắng mịn cùng với phương pháp nhào bột thủ công để làm nên những chiếc đế bánh khi nướng thì nở xốp và giòn mà không hề chai cứng. Một sự kết hợp hoàn hảo giữa đế bánh và nhân bánh, Chiếc bánh bạn nhận được sẽ vẫn còn nóng hổi, viền bánh hơi cháy cạnh rất thơm và giòn tan khi đưa vào miệng. Nhân bánh đặc sánh phô mai với sốt cà chua đỏ tươi và nhiều bột xen lẫn các lát thịt, hải sản tươi thơm ngon làm nên chiếc pizza hoàn hảo và đúng phong vị nhất.",
+      "describe_2": "Thời gian nướng và nhiệt độ nướng bánh: Thời gian nướng rất quan trọng. Chiếc pizza mang tới tận nhà cho khách cũng rất nóng hổi chứ không hề nguội. Nếu pizza để nguội thì vị thực sự của nó sẽ biến mất. Thời gian để nướng chiếc pizza rất quan trọng. Nếu không căn được thời gian nướng thì chiếc bánh có thể bị cháy, hoặc có thể đế bánh không thể giòn và cũng có thể là đế bánh chín không đều. Vậy nên nền nhiệt và thời gian rất quan trọng để quyết định cho ra một chiếc pizza đế bánh giòn rụm khi đưa vào miệng và phần nhân bánh vẫn không bị cháy. Nhiệt độ nướng tại cửa hàng pizza luôn đạt tại 250-350 độ C với thời gian 1-2 phút. Nếu tự làm ở nhà thì nướng mất khoảng 7-8 phút trong nền nhiệt 250 độ C."
+    },
+    {
+      "typeProduct": "pizza",
+      "article_date": "15/01/22",
+      "id": "aa3",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product3.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product3-1.jpg"
+      ],
+
+      "title": "PIZZA HẢI SẢN XÚC XÍCH",
+      "name_product": "PIZZA HẢI SẢN XÚC XÍCH",
+      "price_product": "220,000₫",
+      "priceNumber": "220000",
+      "priceFilter": "220",
+      "describe_1": "Nguồn nguyên liệu tươi ngon được nhập chính ngạch hằng ngày đã qua kiểm định an toàn thực phẩm nên khách hàng có thể hoàn toàn yên tâm về độ tươi ngon của những chiếc bánh nơi đây.",
+      "describe_2": "Thời gian nướng và nhiệt độ nướng bánh: Thời gian nướng rất quan trọng. Chiếc pizza mang tới tận nhà cho khách cũng rất nóng hổi chứ không hề nguội. Nếu pizza để nguội thì vị thực sự của nó sẽ biến mất. Thời gian để nướng chiếc pizza rất quan trọng. Nếu không căn được thời gian nướng thì chiếc bánh có thể bị cháy, hoặc có thể đế bánh không thể giòn và cũng có thể là đế bánh chín không đều. Vậy nên nền nhiệt và thời gian rất quan trọng để quyết định cho ra một chiếc pizza đế bánh giòn rụm khi đưa vào miệng và phần nhân bánh vẫn không bị cháy. Nhiệt độ nướng tại cửa hàng pizza luôn đạt tại 250-350 độ C với thời gian 1-2 phút. Nếu tự làm ở nhà thì nướng mất khoảng 7-8 phút trong nền nhiệt 250 độ C."
+    },
+    {
+      "typeProduct": "banhkem",
+      "article_date": "15/01/22",
+      "id": "aa4",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product4.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product4-1.jpg"
+      ],
+
+      "title": "BÁNH TORRIJA",
+      "name_product": "BÁNH TORRIJA",
+      "price_product": "100,000₫",
+      "priceNumber": "100000",
+      "priceFilter": "100",
+      "describe_1": "Bánh cupcake dễ thương đã trở thành một hiện tượng trong giới trẻ Việt hiện nay. Những chiếc bánh cupcake ngon miệng và vô cùng đẹp mắt đã làm bao trái tim yêu ẩm thực rung động. Cupcake có rất nhiều vị phù hợp với mọi lứa tuổi: bánh cupcake socola, bánh cupcake dâu tây sữa chua, bánh cupcake trà xanh… Ta có thể mua cupcake ở bất kì cửa hàng bánh nào. Hay bây giờ có rất nhiều người tự tay làm cupcake tại nhà để làm bánh sinh nhật tặng người thân và bạn bè. Tuy nhiên có những điều thú vị về cupcake mà không phải ai cũng biết. Hãy cùng nhau tìm hiểu nhé!",
+      "describe_2": "Đã nhiều lần thưởng thức những chiếc bánh cupcake ngon miệng, dễ thương, liệu bạn đã bao giờ tự hỏi nguồn gốc cupcake là ở đâu? Tên gọi bánh cupcake là gì? Cupcake đã được 200 tuổi rồi đó. Cupcake xuất hiện đầu tiên tại Mỹ vào thế kỷ 19 và nhanh chóng tạo thành một bước đột phá và phổ biến trong các gian bếp. Theo trang Food Timeline, người ta vẫn chưa tìm ra nguồn gốc thật sự của tên gọi cupcake. Họ có 2 lý giải cho tên gọi như sau: 1 là chiếc bánh truyền thông được nướng trong những chiếc cup nhỏ, 2 là những thành phần nguyên liệu của bánh được đong theo cup."
+    },
+    {
+      "typeProduct": "banhngot",
+      "article_date": "15/01/22",
+      "id": "aa5",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product6.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product6-1.jpg"
+      ],
+
+      "title": "BÁNH TÁO NƯỚNG",
+      "name_product": "BÁNH TÁO NƯỚNG",
+      "price_product": "110,000₫",
+      "priceNumber": "110000",
+      "priceFilter": "110",
+      "describe_1": "Khách hàng lựa chọn 1 trong 5 mẫu Cupcake xinh xắn tại Afamily Cake (cụ thể hình ảnh và tên từng loại xem chi tiết), 1 set bao gồm 8 chiếc bánh xinh xắn (khách hàng chọn tối thiểu là 4 chiếc/ 1 mẫu - 1 set tối đa được chọn 2 mẫu bánh).",
+      "describe_2": "Sinh nhật không chỉ là dịp đặc biệt kỷ niệm ngày ra đời của một ai đó quan trọng, mà còn là cơ hội để bạn thể hiện gu thẩm mỹ và tình cảm của mình thông qua món quà sinh nhật. Bánh sinh nhật (birthday cake) hay hoa sinh nhật là những món quà tặng sinh nhật thịnh hành, không bao giờ lỗi mốt. Để có những món quà tặng sáng tạo, cùng tìm hiểu những loại bánh sinh nhật đẹp và độc đáo để lấy ý tưởng quà tặng sinh nhật cho những dịp sắp tới với GATO nhé!"
+    },
+    {
+      "typeProduct": "banhngot",
+      "article_date": "15/01/22",
+      "id": "aa6",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product5.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product5-1.jpg"
+      ],
+
+      "title": "CHEESE BURGER(BEEF)",
+      "name_product": "CHEESE BURGER(BEEF)",
+      "price_product": "160,000₫",
+      "priceNumber": "160000",
+      "priceFilter": "160",
+      "describe_1": "Bữa ăn sáng được coi là nguồn cung cấp năng lượng chính cho mỗi chúng ta, giúp hoạt động cả ngày. Vì vậy việc nạp đầy đủ năng lượng cho bữa ăn sáng là điều vô cùng cần thiết, đặc biệt là khi công việc bận rộn tất bật khiến chúng ta không có đủ thời gian chăm lo cho bữa sáng trọng vẹn",
+      "describe_2": "Hamburger được coi là sản phẩm đặc biệt với tiêu chí “ ngon-bổ-rẻ” đem đến cho khách hàng chất lượng tuyệt vời và an toàn cho sức khỏe. Với nguồn năng lượng với hơn 1200 kcal dư sức cung cấp 120% nhu cầu năng lượng cho ngày làm việc. Hamburger được bổ sung thêm 9 loại vitamin và khoáng chất.."
+    },
+    {
+      "typeProduct": "banhkem",
+      "article_date": "15/01/22",
+      "id": "aa7",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product7.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product7-1.jpg"
+      ],
+
+      "title": "BÁNH SOCOLA TAN CHẢY & KEM",
+      "name_product": "BÁNH SOCOLA TAN CHẢY & KEM",
+      "price_product": "150,000₫",
+      "priceNumber": "150000",
+      "priceFilter": "150",
+      "describe_1": "Bao gồm một thìa xúc - cũng là khuôn tạo hình cơm - có tay cầm; một dụng cụ cắt rong biển đơn giản bằng thao tác dập xuống như dập dấu.Bé nhà bạn chắc chắn sẽ rất thích thú khi được nhìn ngắm và thưởng thức những đĩa cơm đáng yêu như thế này.",
+      "describe_2": "Hôm nay dọn tủ bếp thấy có cơ man nào là hạt khô: nho khô, cranberry khô, hạt óc chó, hạt điều, hạt dẻ cười, đậu phộng,… Ôi sao mà nhiều thế! Lần trước có khách đến mang ra nhấm nháp với bia mà sao vẫn chưa hết nhỉ!? Nhìn hạn sử dụng thì chỉ còn hai tuần nữa, thế là phải chưng dụng làm bánh ngọt để uống trà hoặc là cho vào túi để lúc đói nhấm nháp. Kiểu này lại sắp có cái eo bánh mỳ rồi đây, bởi làm bánh ngọt thì không thể thiếu trứng và bơ ơ ơ ơ……"
+    },
+    {
+      "typeProduct": "doannhe",
+      "article_date": "15/01/22",
+      "id": "aa8",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product8.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product8-1.jpg"
+      ],
+
+      "title": "CƠM RANG TRỨNG CUỘN",
+      "name_product": "CƠM RANG TRỨNG CUỘN",
+      "price_product": "120,000₫",
+      "priceNumber": "120000",
+      "priceFilter": "120",
+      "describe_1": "Bột mỳ trắng mịn cùng với phương pháp nhào bột thủ công để làm nên những chiếc đế bánh khi nướng thì nở xốp và giòn mà không hề chai cứng. Một sự kết hợp hoàn hảo giữa đế bánh và nhân bánh, Chiếc bánh bạn nhận được sẽ vẫn còn nóng hổi, viền bánh hơi cháy cạnh rất thơm và giòn tan khi đưa vào miệng. Nhân bánh đặc sánh phô mai với sốt cà chua đỏ tươi và nhiều bột xen lẫn các lát thịt, hải sản tươi thơm ngon làm nên chiếc pizza hoàn hảo và đúng phong vị nhất.",
+      "describe_2": "Thời gian nướng và nhiệt độ nướng bánh: Thời gian nướng rất quan trọng. Chiếc pizza mang tới tận nhà cho khách cũng rất nóng hổi chứ không hề nguội. Nếu pizza để nguội thì vị thực sự của nó sẽ biến mất. Thời gian để nướng chiếc pizza rất quan trọng. Nếu không căn được thời gian nướng thì chiếc bánh có thể bị cháy, hoặc có thể đế bánh không thể giòn và cũng có thể là đế bánh chín không đều. Vậy nên nền nhiệt và thời gian rất quan trọng để quyết định cho ra một chiếc pizza đế bánh giòn rụm khi đưa vào miệng và phần nhân bánh vẫn không bị cháy. Nhiệt độ nướng tại cửa hàng pizza luôn đạt tại 250-350 độ C với thời gian 1-2 phút. Nếu tự làm ở nhà thì nướng mất khoảng 7-8 phút trong nền nhiệt 250 độ C."
+    },
+    {
+      "typeProduct": "doannhe",
+      "article_date": "15/01/22",
+      "id": "aa9",
+      "imageProduct": [
+        "https://api.luxwebsite.net/cuong_image/food_image/product9.jpg",
+        "https://api.luxwebsite.net/cuong_image/food_image/product9-1.jpg"
+      ],
+
+      "title": "SALAD BÒ MỸ",
+      "name_product": "SALAD BÒ MỸ",
+      "price_product": "160,000₫",
+      "priceNumber": "160000",
+      "priceFilter": "160",
+      "describe_1": "Bột mỳ trắng mịn cùng với phương pháp nhào bột thủ công để làm nên những chiếc đế bánh khi nướng thì nở xốp và giòn mà không hề chai cứng. Một sự kết hợp hoàn hảo giữa đế bánh và nhân bánh, Chiếc bánh bạn nhận được sẽ vẫn còn nóng hổi, viền bánh hơi cháy cạnh rất thơm và giòn tan khi đưa vào miệng. Nhân bánh đặc sánh phô mai với sốt cà chua đỏ tươi và nhiều bột xen lẫn các lát thịt, hải sản tươi thơm ngon làm nên chiếc pizza hoàn hảo và đúng phong vị nhất.",
+      "describe_2": "Thời gian nướng và nhiệt độ nướng bánh: Thời gian nướng rất quan trọng. Chiếc pizza mang tới tận nhà cho khách cũng rất nóng hổi chứ không hề nguội. Nếu pizza để nguội thì vị thực sự của nó sẽ biến mất. Thời gian để nướng chiếc pizza rất quan trọng. Nếu không căn được thời gian nướng thì chiếc bánh có thể bị cháy, hoặc có thể đế bánh không thể giòn và cũng có thể là đế bánh chín không đều. Vậy nên nền nhiệt và thời gian rất quan trọng để quyết định cho ra một chiếc pizza đế bánh giòn rụm khi đưa vào miệng và phần nhân bánh vẫn không bị cháy. Nhiệt độ nướng tại cửa hàng pizza luôn đạt tại 250-350 độ C với thời gian 1-2 phút. Nếu tự làm ở nhà thì nướng mất khoảng 7-8 phút trong nền nhiệt 250 độ C."
+    }
+  ],
+  "news_moc_food": [
+    {
+      "id": "nn1",
+      "name": "Cách làm Hamburger bò siêu nhanh cho bữa sáng",
+      "article_date": "05/06/22",
+      "newDescriber": "Hamburger là món ăn nhanh được rất nhiều bạn trẻ yêu thích hiện nay, vậy chúng ta cùng trổ tài với cách làm Hamburger bò tại nhà nào các bạn. Nguyên liệu: - 1 bánh mì tròn - 300g thịt bò xay - 30g bột chiên xù - 1 lát pho... [Đọc tiếp]",
+      "tags": "Bánh Pizza, Hamberger",
+      "image": "https://api.luxwebsite.net/cuong_image/food_image/blog1.jpg"
+    },
+    {
+      "id": "nn2",
+      "name": "Cách làm Pizza ngon tại nhà",
+      "article_date": "05/05/22",
+      "newDescriber": "Vào đầu thế kỷ 20, người ta thấy có một loại bánh đặc biệt theo những đoàn người Ý di cư sang châu Mỹ và có mặt ở nhiều nước trên thế giới đó là bánh pizza. Đây là loại bánh có đế tròn, dẹt được chế biến từ nước, bột mỳ và nấm men, sau khi đã được... [Đọc tiếp]",
+      "tags": "Steak, Bánh Pizza, Hamberger",
+      "image": "https://api.luxwebsite.net/cuong_image/food_image/blog2.jpg"
+    },
+    {
+      "id": "nn3",
+      "name": "Tận dụng kem bơ làm bánh cà phê ngon tuyệt",
+      "article_date": "05/04/22",
+      "newDescriber": "Với cách làm này, từ nay bạn không sợ phần kem bơ sau khi trang trí những chiếc bánh kem bị bỏ đi uổng phí nữa nhé! Nguyên liệu: - 400g kem bơ sữa tươi ( tỉ lệ bơ, sữa, đường của kem là 1 : 1 : 0,3) - 500g bột mỳ - 200g đường (hoặc ...",
+      "tags": " Bánh kem, Asian Bread",
+      "image": "https://api.luxwebsite.net/cuong_image/food_image/blog3.jpg"
+    },
+    {
+      "id": "nn4",
+      "name": "Không thẻ cưỡng lại với kem ốc quế 3 tầng",
+      "article_date": "05/01/22",
+      "newDescriber": "Quả việt quất (blueberry) là loại quả được yêu thích trên toàn thế giới không chỉ vì chúng ngon mà còn bởi chúng cung cấp nhiều lợi ích sức khỏe của chúng ta. Nó có nhiều chất bổ dưỡng giúp chống lại bệnh tiểu đường, bệnh tim mạch, giảm cholester...",
+      "tags": "Bánh kem, Bánh ngọt",
+      "image": "https://api.luxwebsite.net/cuong_image/food_image/blog1.jpg"
+    }
+  ],
+  "home_moc_food": [
+    {
+      "id": "hh1",
+      "homeType": "slider",
+      "article_date": "15/01/22",
+      "name": "Ảnh slider",
+      "image_slider_desktop": "https://api.luxwebsite.net/cuong_image/food_image/slider1.jpg",
+      "image_slider_mobile": ""
+    },
+    {
+      "id": "hh2",
+      "homeType": "slider",
+      "article_date": "15/01/22",
+      "name": "Ảnh slider",
+      "image_slider_desktop": "https://api.luxwebsite.net/cuong_image/food_image/slider2.jpg",
+      "image_slider_mobile": ""
+    },
+    {
+      "id": "hh5",
+      "homeType": "slider",
+      "article_date": "15/01/22",
+      "name": "Ảnh slider",
+      "image_slider_desktop": "https://api.luxwebsite.net/cuong_image/food_image/slider5.jpg",
+      "image_slider_mobile": ""
+    }
+  ]
 }
